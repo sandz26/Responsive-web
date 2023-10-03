@@ -8,7 +8,9 @@ This website serves as a hub to connect with potential clients seeking exception
 # Features
 
 ## 1. Dynamic Carousel
-Experience effortless navigation through our dynamic carousel, where we showcase important content and featured products. [![CAROUSEL](https://img.youtube.com/vi/j1kAcCs2S70/0.jpg)](https://youtu.be/j1kAcCs2S70)
+Experience effortless navigation through our dynamic carousel, where we showcase important content and featured products.
+
+[![CAROUSEL](https://img.youtube.com/vi/j1kAcCs2S70/0.jpg)](https://youtu.be/j1kAcCs2S70)
 
 
 ## 2. Simple Navigation
