@@ -6,8 +6,10 @@ Welcome to The Elite Graphics, your go-to destination for premium digital design
 This website serves as a hub to connect with potential clients seeking exceptional digital design solutions. Our focus lies in simplicity, user experience, and engaging design elements.
 
 # Features
+
 ## 1. Dynamic Carousel
-Experience effortless navigation through our dynamic carousel, where we showcase important content and featured products. [Check out the video attachment here.]
+Experience effortless navigation through our dynamic carousel, where we showcase important content and featured products. [![CAROUSEL](https://img.youtube.com/vi/j1kAcCs2S70/0.jpg)](https://youtu.be/j1kAcCs2S70)
+
 
 ## 2. Simple Navigation
 Our one-page design boasts simple navigation tabs, allowing users to seamlessly explore various sections of the website.
